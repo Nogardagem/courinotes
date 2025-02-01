@@ -1,0 +1,15 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://31d234dm8caw"
+valid=false
+
+[deps]
+
+source_file="res://text/Untitled spreadsheet - Notes (1).csv"
+
+[params]
+
+compress=true
+delimiter=0

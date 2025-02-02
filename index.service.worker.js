@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1738508200|1582647845';
+const CACHE_VERSION = '1738511642|5024560326';
 /** @type {string} */
 const CACHE_PREFIX = 'Courinotes-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
